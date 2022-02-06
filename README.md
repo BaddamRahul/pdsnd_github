@@ -9,9 +9,8 @@ This script is used to explore the data which is related to bike share for the c
 ### Description
 The python script is used to analyze the data of cities with the bikeshare systems in three cities
 
-### Datasets used
-Several data sets are given in the csv files wich includes start time , end time, trip duration, start station, end station, user type,gender ,year of birth
+### Files used
+Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
